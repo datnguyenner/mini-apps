@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
-* {
-  box-sizing: border-box;
-}
-
 .movie-container {
   margin: 20px 0;
 }

@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
 import MovieSeatBooking from './MovieSeatBooking.js';
+import InfiniteScrollBlog from './InfiniteScrollBlog.js';
+
 
 
 function App() {
@@ -8,7 +10,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       </header>
-      <MovieSeatBooking/>
+      <InfiniteScrollBlog/>
     </div>
   );
 }
